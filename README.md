@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Tech
+## 🧰 Tech Stack
 **Web**:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -34,13 +34,36 @@
 
 ## 🚀 Featured projects
 
-- **EventureITI – Events Platform** (Flutter + React + Firebase + Stripe)
-  End‑to‑end design → Flutter app + React front‑end, auth, payments, and responsive UI.  
-**[Repo](https://github.com/orgs/EventureITI/repositories)** • **[UI Design](https://www.figma.com/design/meN5eN8B56RRPHU6JNvAPj/Eventure-%5BDesign%5D?node-id=0-1&t=CrokBUHzDrMETgwU-1)** • **[User Flow](https://www.figma.com/board/Y8rtxyRcLgZok0Dhh8AwDX/Eventure-%5BFlow%5D?node-id=0-1&t=EgiqH0kIg6OzXzhu-1)** • **[Case Study](https://amr-assem.notion.site/ISM-FE-CP-G3-Project-70ed11d5e1084f7b85dadb50e258df1a)**
+**Dimensions Games** (Ongoing 🟢)  
+Role: UI/UX Design • Full-Stack  
+Links: [Deployment](https://dimensionsgames.fun/)
 
-- **Blog Feed (React + Tailwind + Firebase)**  
-**[Repo](https://github.com/Amr-Assem/Feed-Blog-ITI)**
+**Eventure – Events Platform**  
+Led the design and development of a cross-platform event booking app. Integrated Firebase for user authentication, and Stripe for payments.  
 
+Role: Front-end (React) • Mobile (Flutter) • UI Design  
+Links: [Repo](https://github.com/orgs/EventureITI/repositories) • [UI Design](https://www.figma.com/design/meN5eN8B56RRPHU6JNvAPj/Eventure-%5BDesign%5D?node-id=0-1&t=CrokBUHzDrMETgwU-1) • [User Flow](https://www.figma.com/board/Y8rtxyRcLgZok0Dhh8AwDX/Eventure-%5BFlow%5D?node-id=0-1&t=EgiqH0kIg6OzXzhu-1) • [Case Study](https://amr-assem.notion.site/ISM-FE-CP-G3-Project-70ed11d5e1084f7b85dadb50e258df1a)
+
+
+**Blog Feed**  
+Developed a responsive blog feed using React and Tailwind CSS, with Firebase for back-end integration and user authentication.
+
+Role: Front-end (React)  
+Links: [Repo](https://github.com/Amr-Assem/Feed-Blog-ITI)
+
+**Food Delivery Website/App**  
+Led the design of a food delivery app enabling users to order from multiple 
+restaurants, receive recommendations, and schedule deliveries.
+
+Role: UI/UX Design  
+Links: [Figma](https://www.figma.com/design/30STxSFCbGrl2I7Abxt58F)
+
+
+**Fashion App**  
+Designed an app for online clothes shopping, featuring products from various sellers and supporting local and international pro-Palestine brands
+
+Role: UX Research  
+Links: [User and Market Research](https://amr-assem.notion.site/User-Research-26b23457c37a8146ad6bc5aed2729e71)
 
 ---
 
