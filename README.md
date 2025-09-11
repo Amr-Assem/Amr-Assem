@@ -1,32 +1,36 @@
 # Hi, I’m Amr Assem 👋
 
-**Front‑end Developer & UI/UX Designer**  
-Cross‑platform (Web • React/Next.js • React Native • Flutter)  
-Bridging **design ↔︎ code** to ship fast, usable products.
+💻 **Software Engineer** | 🎨 **UI/UX Enthusiast** | 🌍 **Cross-platform Developer**  
+(React/Next.js • React Native • Flutter)
 
 ✉️ [contact@amrassem.com](mailto:contact@amrassem.com)
 
 ---
 
 ## 🔎 About me
-
-I’m a highly organized **Software Engineer** with a strong focus on **front-end and cross-platform development** (React, Next.js, React Native, Flutter). I enjoy **bridging design and development** — turning UI/UX principles into functional, visually appealing applications.
-
-I’m expanding my skills into **full-stack development (MERN)** to strengthen my ability to deliver end-to-end products.
-
-With over 10 years of experimenting in illustration, graphic design, and photo manipulation, I bring a deep appreciation for **clean, organized, and practical design** into every project I build.
-
-I’m eager to keep growing and combining my passions for **tech, design, and psychology** into projects that blend creativity with functionality.
+- 🔷 Highly organized engineer with a strong focus on **front-end & cross-platform**.  
+- 🎯 Passionate about **bridging design ↔ code**, building user-friendly, visually appealing apps.  
+- 🌱 Expanding into **full-stack (MERN)** for end-to-end product building.  
+- 🎨 Over 10 years experimenting with **illustration, design, photo manipulation** → love clean, practical design.  
+- 📚 Always blending **tech, design, psychology** into impactful projects.
 
 ---
 
 ## 🧰 Tech
+**Web**:  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
-- **Web**: React, Next.js, Material UI, Tailwind CSS, Bootstrap, SASS, Nunjucks
-- **Mobile**: React Native (Expo), Flutter (Dart)
-- **Back‑end (foundational)**: Node.js, Express, Firebase (Auth/Firestore), MongoDB
-- **Design**: Figma, Adobe XD, Photoshop • Design systems, wireframes, prototypes
-- **Ops**: Git/GitHub
+**Mobile:**  
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=flat) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
+**Back-end (Foundational):**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+
+**Design:**  
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+**Ops:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
 ---
 
