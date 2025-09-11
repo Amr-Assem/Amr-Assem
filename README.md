@@ -28,7 +28,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Ops:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%233d444d.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -53,6 +53,6 @@
 ---
 
 ## 📫 Contact
-[![Portfolio](https://img.shields.io/badge/Portfolio-amrassem.com-20232A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.amrassem.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/eng--amr--assem-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/eng-amr-assem)  
-[![Mail](https://img.shields.io/badge/Mail-contact@amrassem.com-4ea94b?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/eng-amr-assem)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-amrassem.com-20232A?style=for-the-badge)](https://www.amrassem.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/eng--amr--assem-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eng-amr-assem)  
+[![Mail](https://img.shields.io/badge/E--Mail-contact@amrassem.com-4ea94b?style=for-the-badge)](https://www.linkedin.com/in/eng-amr-assem)  
